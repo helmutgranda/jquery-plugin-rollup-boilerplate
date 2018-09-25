@@ -1,6 +1,6 @@
 {
   "name": "jquery-plugin-rollup-boilerplate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Boilerplate to develop plugins for jQuery with RollUp and Babel",
   "main": "index.js",
   "scripts": {
