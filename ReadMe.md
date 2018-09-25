@@ -10,7 +10,7 @@ $ cd jquery-plugin-rollup-boilerplate
 $ npm install
 ```
 
-### Installing
+### Installing˝
 
 ```
 $ git clone https://github.com/helmutgranda/jquery-plugin-rollup-boilerplate.git
