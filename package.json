@@ -1,0 +1,27 @@
+{
+  "name": "jquery-plugin-rollup-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate to develop plugins for jQuery with RollUp and Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup",
+    "serve": "serve dist",
+    "watch:js": "rollup -c -w",
+    "watch": "run-p watch:js serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "jquery": "^3.3.1",
+    "npm-run-all": "^4.1.3",
+    "rollup": "^0.66.2",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-livereload": "^0.6.0",
+    "serve": "^10.0.2"
+  }
+}
